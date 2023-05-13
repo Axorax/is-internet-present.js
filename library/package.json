@@ -1,0 +1,26 @@
+{
+  "name": "is-internet-present",
+  "version": "1.0.0",
+  "description": "Check connectivity status: Online or Offline?",
+  "main": "is-internet-present.js",
+  "exports": {
+    "import": "./is-internet-present.js",
+    "require": "./is-internet-present.cjs"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axorax/is-internet-present.js.git"
+  },
+  "keywords": [
+    "is-internet-present",
+    "online-status",
+    "internet"
+  ],
+  "author": "Axorax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Axorax/is-internet-present.js/issues"
+  },
+  "homepage": "https://github.com/Axorax/is-internet-present.js#readme"
+}
